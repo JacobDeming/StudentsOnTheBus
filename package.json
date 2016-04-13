@@ -1,0 +1,14 @@
+{
+  "name": "students-on-the-bus",
+  "version": "1.0.0",
+  "description": "creates students and prints chatter",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "Jacob Deming",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
